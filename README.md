@@ -1,6 +1,6 @@
 # microgrid
 
-1. This is a model for hybrid power system which consist of wind and water;\n
+1. This is a model for hybrid power system which consist of wind and water;
 
 2. A 20 unit commitment model
 
